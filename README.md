@@ -1,17 +1,17 @@
 ![DEVELOPMENT](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'am Shreyansh Dixit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanshpdixit&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshpdixit" /> </p>
 
-- 🔭 I’m currently working on **Front-End Projects**
+- 🔭 I’m currently working on **Full-Stack Projects**
 
 - 🌱 I’m currently learning **Cloud(AWS), ReactJS & AngularJS**
 
 - 🤝 I’m looking for **SDE Roles**
 
-- 💬 Ask me about **HTML, CSS, JS & DSA**
+- 💬 Ask me about **JS, React, Next & DSA**
 
 - 📫 Reach me at **shreyanshdixit77@gmail.com**
 
